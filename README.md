@@ -19,4 +19,6 @@ In the single player mode, the object will be placed randomly in the map, it wil
 In the two players mode, each player can choose one object every round and place it to wherever he/she wants.
 
 # Screenshots
-
+![](resources/preview/preview01.JPG)
+![](resources/preview/preview02.JPG)
+![](resources/preview/preview03.JPG)
